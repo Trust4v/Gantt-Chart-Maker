@@ -36,4 +36,4 @@ Content : This contains the endtimes for each label
 If you want something to be "selected" (another color in the chart as well as being listed at the top) either name it "Cowbrush" or change the variable "specified_tag_id" to whatever.
 
 ### 2
-To see how the program looks simply download and open the index file.
+To see how the program looks: https://trust4v.github.io/Gantt-Chart-Maker/
