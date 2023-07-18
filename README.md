@@ -1,4 +1,4 @@
-# Gantt-Chart-Maker
+# Gantt Chart Maker
 ### A program made by Gustav Sommar
 
 ## To use this chart maker all you need to do is:
